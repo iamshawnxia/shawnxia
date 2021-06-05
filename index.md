@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## SHAWN XIA's Personal Page
 
-You can use the [editor on GitHub](https://github.com/iamshawnxia/shawnxia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Shawn Xia received the B.S. degree of engineering at the School of Instrument and Electronics, North University of China in 2020. He is currently pursuing the M.S. degree with Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS). Yuhu's research interests focus on Optical-MEMS and MEMS actuators.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About MEMS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
