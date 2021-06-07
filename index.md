@@ -34,7 +34,7 @@ Microelectromechanical systems
 [2021](https://www.mems21.org/)
 ### TRANSDUCERS
 [2021](https://www.transducers2021.org/)
-### [IEEE International Electron Devices Meeting (IEDM)](ieee-iedm.org)
+### [IEEE International Electron Devices Meeting (IEDM)](https://www.ieee-iedm.org/)
 
 ## Labs
 ### Domestic
