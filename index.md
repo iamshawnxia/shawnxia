@@ -1,8 +1,8 @@
 ## SHAWN XIA's Personal Page
-#
 ## **Introduction**
 ```markdown
-Yuhu "Shawn" Xia received the Bachelor of Engineering at the School of Instrument and Electronics, North University of China in 2020. He is currently pursuing the Master of Engineering with Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS). 
+Yuhu "Shawn" Xia received the Bachelor of Engineering at the School of Instrument and Electronics, North University of China in 2020.
+He is currently pursuing the Master of Engineering with Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences (CAS). 
 Shawn's research interests focus on Optical-MEMS and MEMS actuators.
 ```
 
@@ -34,8 +34,8 @@ Microelectromechanical systems
 [2021](https://www.mems21.org/)
 ### TRANSDUCERS
 [2021](https://www.transducers2021.org/)
-### IEEE International Electron Devices Meeting (IEDM)
-ieee-iedm.org
+### [IEEE International Electron Devices Meeting (IEDM)](ieee-iedm.org)
+
 ## Labs
 ### Domestic
 -[上海微系统所_传感技术联合国家重点实验室](http://www.sim.cas.cn/kybm2016/cgjslhgjzdsys2016/)
